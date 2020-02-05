@@ -12,7 +12,7 @@ let body = `
 
     <h1 class="center-text">
       <!-- ↓ Change "Hello world!" to something else and head on back to Begin! -->
-      Hello, world on ${Deno.versions.deno}!
+      Hello, world on deno v${Deno.version.deno}!
     </h1>
 
     <p class="center-text">
